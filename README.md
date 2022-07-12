@@ -1,2 +1,3 @@
-# python-related
-About Python
+# 파이썬
+
+ - [language](./langauge/README.md)
