@@ -1,0 +1,4 @@
+site_name: My RHIE
+nav:
+    - Home: index.md
+    - About: about.md
